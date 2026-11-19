@@ -1,3 +1,4 @@
+
 document.addEventListener("DOMContentLoaded", function () {
 
     const button = document.querySelector("#openBtn");
@@ -25,3 +26,5 @@ document.addEventListener("DOMContentLoaded", function () {
         }, 200);
 
     });
+
+});
